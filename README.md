@@ -1,5 +1,7 @@
 # Frontend Mentor - Article preview component
+see the website: https://suebxl.github.io/07_Article-preview-component/
 
+screen shot: 
 ![image](https://github.com/Suebxl/07_Article-preview-component/assets/73802863/23660106-a8f4-4e44-83e6-74947e447a83)
 
 ## Welcome! 👋
